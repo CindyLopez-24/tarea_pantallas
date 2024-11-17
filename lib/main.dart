@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:pantallas/pantallas/login_screen.dart';
+import 'package:pantallas/pantallas/registro_screen.dart';
+import 'package:pantallas/pantallas/inicio_screen.dart';
 
 void main() {
   runApp(const MyApp());
 }
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
